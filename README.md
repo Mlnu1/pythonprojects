@@ -1,3 +1,3 @@
 # pythonprojects
 
-Day1 to do list
+Day1 : to do list App
